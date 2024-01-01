@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+:root{
+    --dark-bg:#1f2937;
+    --txt-color:#F9FAF8;
+    --link-txt:#E5E7EB;
+    --header-logo-txt:#F9FAF8;
+    --btn-clr:#3882F6;
+    --extra-bold:#1F2937;
+    --quote-sectionBg:#E5E7EB;
+    --quote-txt:#1F2937;
+}
