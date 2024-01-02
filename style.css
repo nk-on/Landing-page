@@ -120,7 +120,18 @@ header nav ul {
     width: min(20vw, 400px);
     height: auto;
 }
-
+.testimonial-section{
+    background-color: var(--link-txt);
+    padding: 10vh ;
+    text-align: center;
+}
+.testimonial-section p{
+    font-style: italic;
+    font-size: 2.5rem;
+}
+.testimonial-section h3{
+    text-align: right;
+}
 @media screen and (max-width: 760px) {
     header {
         padding: 10px 0;
